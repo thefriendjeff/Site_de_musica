@@ -6,8 +6,8 @@
 }
 .hero {
     display: flex;
-    justify-content: flex-end;  
-    background-color: #fff;
+    justify-content: flex-start;  
+    background: linear-gradient(to bottom, #211D1A, #231f1c);
     position: fixed;
     width: 100%;
     height: auto;
