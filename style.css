@@ -35,6 +35,13 @@ span {
     color: #b80000 ;
 }
 h1 {
+    padding-left: 2rem;
+    font-weight: normal;
+    color: #a7a5a5;
+    font-size: 22px
+}
+.navbar h2 {
+    font-size:30px;
     font-weight: bold;
 }
 h2 {
